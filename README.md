@@ -12,7 +12,8 @@ I like building stuffs and solving problems with technology<img src="https://med
 
 <a href="https://github.com/susanka068"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/github.svg"></a>
 <a href="https://www.instagram.com/drunk_pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/instagram-sketched.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/facebook.svg"></a>
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="CodeChef" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/codechef.svg"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Codeforces" title="CodeForces" height="32" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"></a>
 
 <!--
