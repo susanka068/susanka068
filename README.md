@@ -27,7 +27,8 @@ _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="ht
 
 ##### Connect With me
 
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Gmail" title="Gmail" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/spotify.svg"></a>
 
 ##### github stats
 
