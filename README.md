@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ##### whatcha doing
+
+I like building stuffs and solving problems with technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
