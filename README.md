@@ -11,18 +11,23 @@ I like building stuffs and solving problems with technology<img src="https://med
 ##### Some Nerdy Stuffs That might Interest You
 
 <a href="https://github.com/susanka068"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/github.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="CodeChef" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/codechef.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Codeforces" title="Hackerrank" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/HackerRank_logo.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Codeforces" title="CodeForces" height="32" width="80" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Codeforces_logo.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Codeforces" title="Hackerearth" height="32" width="" src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png"></a>
+<a href="https://www.codechef.com/users/bingobong"><img alt="Codechef" title="CodeChef" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/codechef.svg"></a>
+<a href="https://www.hackerrank.com/sathinandimajum1"><img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/HackerRank_logo.svg"></a>
+<a href="https://codeforces.com/profile/susanka"><img alt="Codeforces" title="CodeForces" height="32" width="80" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Codeforces_logo.svg"></a>
+<a href="https://www.hackerearth.com/@susanka"><img alt="Hackerearth" title="Hackerearth" height="32" width="" src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png"></a>
 
 ##### An anti-social being with social media handles
 
 <a href="https://www.instagram.com/drunk
 _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/instagram-sketched.svg"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/facebook.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/linkedin.svg"></a>
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/twitter.svg"></a>
+<a href="https://www.linkedin.com/in/susanka-majumder-45392115b/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/linkedin.svg"></a>
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/twitter.svg"></a>
+<a href="https://www.youtube.com/channel/UCfZE_3yxMTFbpl4IiA96O_Q"><img alt="Youtube" title="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/youtube.svg"></a>
+
+##### Connect With me
+
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
 
 <!--
 **susanka068/susanka068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
