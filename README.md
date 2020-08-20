@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+##### whatcha doing
+
+---
+
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+
 <!--
 **susanka068/susanka068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
