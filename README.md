@@ -4,6 +4,8 @@
 
 I like building stuffs and solving problems with technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97emqQxqqHp6AN/giphy.gif" width="30">
+
 ---
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
