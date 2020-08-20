@@ -29,6 +29,10 @@ _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="ht
 
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
 
+##### github stats
+
+[![susanka068's github stats](https://github-readme-stats.vercel.app/api?username=susanka068&count_private=true&show_icons=true)](https://github.com/susanka068/github-readme-stats)
+
 <!--
 **susanka068/susanka068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
