@@ -15,6 +15,23 @@ Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97e
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Follower](https://img.shields.io/github/followers/susanka068?label=Follow&style=social)](https://github.com/susanka068)
 
+---
+
+##### Languages I have worked with
+
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="Javascript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/JavaScript_logo.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="Python" title="Python" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Python-logo.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="C++" title="C++" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/C++_Logo.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="C" title="C" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/C.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="java" title="java" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/java.svg"></a>
+
+---
+
 ##### Some Nerdy Stuffs That might Interest You
 
 <a href="https://github.com/susanka068"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/github.svg"></a>
