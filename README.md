@@ -63,9 +63,16 @@ _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="ht
 
 ##### github stats
 
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Stat Card" src="https://github-readme-stats.vercel.app/api?username=susanka068&count_private=true&show_icons=true&theme=chartreuse-dark"></a>
+<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanka068&layout=compact&theme=blue-green"></a>
+
+<!--
+
 [![susanka068's github stats](https://github-readme-stats.vercel.app/api?username=susanka068&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/susanka068/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susanka068&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <!--
 **susanka068/susanka068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
