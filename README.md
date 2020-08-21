@@ -2,9 +2,9 @@
 
 ##### whatcha doing
 
-I like building stuffs and solving problems with technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I like building stuffs and solving problems with technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 
-Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97emqQxqqHp6AN/giphy.gif" width="30">
+Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97emqQxqqHp6AN/giphy.gif" width="32">
 
 ---
 
@@ -13,6 +13,7 @@ Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97e
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Follower](https://img.shields.io/github/followers/susanka068?label=Follow&style=social)](https://github.com/susanka068)
 
 ##### Some Nerdy Stuffs That might Interest You
 
