@@ -30,6 +30,13 @@ _pheonix/"><img alt="C" title="C" height="32" width="32" src="https://raw.github
 <a href="https://www.instagram.com/drunk
 _pheonix/"><img alt="java" title="java" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/java.svg"></a>
 
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="html5" title="html" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/html-5.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="css3" title="css" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/css3.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="Bash" title="Bash" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Bash_Logo.svg"></a>
+
 ---
 
 ##### Some Nerdy Stuffs That might Interest You
