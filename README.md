@@ -46,8 +46,10 @@ _pheonix/"><img alt="TensorFlow" title="Tensorflow" height="32" width="32" src="
 <a href="https://github.com/susanka068"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/github.svg"></a>
 <a href="https://www.codechef.com/users/bingobong"><img alt="Codechef" title="CodeChef" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/codechef.svg"></a>
 <a href="https://www.hackerrank.com/sathinandimajum1"><img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/HackerRank_logo.svg"></a>
+<a href="https://www.kaggle.com/bingobong"><img alt="Kaggle" title="Kaggle" height="32" width="80" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/kaggle-icon.svg"></a>
 <a href="https://codeforces.com/profile/susanka"><img alt="Codeforces" title="CodeForces" height="32" width="80" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Codeforces_logo.svg"></a>
 <a href="https://www.hackerearth.com/@susanka"><img alt="Hackerearth" title="Hackerearth" height="32" width="" src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png"></a>
+
 
 ##### An anti-social being with social media handles
 
