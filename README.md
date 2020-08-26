@@ -19,28 +19,25 @@ Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97e
 
 ##### Languages I have worked with
 
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="Javascript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/JavaScript_logo.svg"></a>
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="Python" title="Python" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Python-logo.svg"></a>
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="C++" title="C++" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/C++_Logo.svg"></a>
+<a href="https://github.com/susanka068/diana_fashion_intelligent_system/search?l=javascript"><img alt="Javascript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/JavaScript_logo.svg"></a>
+<a href="https://github.com/susanka068/python_automation/search?l=python"><img alt="Python" title="Python" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Python-logo.svg"></a>
+<a href="https://github.com/susanka068/competetive_programming-/search?l=c%2B%2B"><img alt="C++" title="C++" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/C++_Logo.svg"></a>
 <a href="https://www.instagram.com/drunk
 _pheonix/"><img alt="C" title="C" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/C.svg"></a>
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="java" title="java" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/java.svg"></a>
+<a href="https://github.com/susanka068/JUCSE-4thsem/search?l=java"><img alt="java" title="java" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/java.svg"></a>
 
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="html5" title="html" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/html-5.svg"></a>
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="css3" title="css" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/css3.svg"></a>
-<a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="Bash" title="Bash" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Bash_Logo.svg"></a>
+<a href="https://github.com/susanka068/groundBlu/search?l=html"><img alt="html5" title="html" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/html-5.svg"></a>
+<a href="https://github.com/susanka068/groundBlu/search?l=css"><img alt="css3" title="css" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/css3.svg"></a>
+<a href="https://github.com/susanka068/Diana/search?l=shell"><img alt="Bash" title="Bash" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Bash_Logo.svg"></a>
 
 ##### Libraries And FrameWorks
 
 <a href="https://www.instagram.com/drunk
-_pheonix/"><img alt="Bash" title="Bash" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/react.svg"></a>
+_pheonix/"><img alt="React" title="React" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/react.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="NodeJs" title="NodeJs" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Node.js_logo.svg"></a>
+<a href="https://www.instagram.com/drunk
+_pheonix/"><img alt="TensorFlow" title="Tensorflow" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Tensorflow_logo.svg"></a>
 
 ---
 
