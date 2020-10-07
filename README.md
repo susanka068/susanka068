@@ -64,10 +64,9 @@ _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="ht
 <a href="mailto:triinsiagle@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/spotify.svg"></a>
 
-##### github stats
 
 <details>
-  <summary><h1>github stats<h1></summary>
+  <summary>github stats</summary>
   
  <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Stat Card" src="https://github-readme-stats.vercel.app/api?username=susanka068&count_private=true&show_icons=true&theme=chartreuse-dark"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanka068&layout=compact&theme=blue-green"></a>
