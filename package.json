@@ -1,0 +1,25 @@
+{
+  "name": "susanka",
+  "version": "1.0.0",
+  "description": "reach out to me ",
+  "main": "index.js",
+  "bin": {
+    "susanka": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "pub": "npm version patch & npm publish"
+  },
+  "keywords": [
+    "contacts"
+  ],
+  "author": "susanka Majumder",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.2.0"
+  }
+}
