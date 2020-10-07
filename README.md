@@ -59,11 +59,12 @@ _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="ht
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/twitter.svg"></a>
 <a href="https://www.youtube.com/channel/UCfZE_3yxMTFbpl4IiA96O_Q"><img alt="Youtube" title="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/youtube.svg"></a>
 
-##### Connect With me
 
-<a href="mailto:triinsiagle@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
+<details>
+  <summary>Connect With me</summary> 
+ <a href="mailto:triinsiagle@gmail.com"><img alt="Gmail" title="Gmail" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/gmail.svg"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/spotify.svg"></a>
-
+</details>
 
 <details>
   <summary>github stats</summary>
