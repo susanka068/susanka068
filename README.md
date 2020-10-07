@@ -50,14 +50,18 @@ _pheonix/"><img alt="NodeJs" title="NodeJs" height="32" width="32" src="https://
 <a href="https://codeforces.com/profile/susanka"><img alt="Codeforces" title="CodeForces" height="32" width="80" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/Codeforces_logo.svg"></a>
 <a href="https://www.hackerearth.com/@susanka"><img alt="Hackerearth" title="Hackerearth" height="32" width="" src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png"></a>
 
-##### An anti-social being with social media handles
 
-<a href="https://www.instagram.com/drunk
+<details>
+  <summary>An anti-social being with social media handles</summary> 
+ <a href="https://www.instagram.com/drunk
 _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/instagram-sketched.svg"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/facebook.svg"></a>
 <a href="https://www.linkedin.com/in/susanka-majumder-45392115b/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/linkedin.svg"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/twitter.svg"></a>
 <a href="https://www.youtube.com/channel/UCfZE_3yxMTFbpl4IiA96O_Q"><img alt="Youtube" title="Youtube" height="32" width="32" src="https://raw.githubusercontent.com/susanka068/susanka068/master/assets/youtube.svg"></a>
+
+</details>
+
 
 
 <details>
