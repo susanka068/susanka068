@@ -6,7 +6,7 @@ I like building stuffs and solving problems with technology<img src="https://med
 
 Also trying some Workouts lately <img src="https://media.giphy.com/media/h6xJ97emqQxqqHp6AN/giphy.gif" width="32">
 
-hit `npx susanka` in your terminal to contact me 
+hit   `npx susanka`   in your terminal to contact me .
 
 ---
 
@@ -66,8 +66,15 @@ _pheonix/"><img alt="InstaGram" title="InstaGram" height="32" width="32" src="ht
 
 ##### github stats
 
-<a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Stat Card" src="https://github-readme-stats.vercel.app/api?username=susanka068&count_private=true&show_icons=true&theme=chartreuse-dark"></a>
+<details>
+  <summary><h1>github stats<h1></summary>
+  
+ <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Stat Card" src="https://github-readme-stats.vercel.app/api?username=susanka068&count_private=true&show_icons=true&theme=chartreuse-dark"></a>
 <a href="https://www.facebook.com/susanka.majumder.758"><img alt="Stat Card" title="Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanka068&layout=compact&theme=blue-green"></a>
+
+</details>
+
+
 
 <!--
 
