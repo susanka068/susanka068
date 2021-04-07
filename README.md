@@ -17,6 +17,8 @@ hit   `npx susanka`   in your terminal to contact me .
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Follower](https://img.shields.io/github/followers/susanka068?label=Follow&style=social)](https://github.com/susanka068)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susanka068" alt="susanka068" /> </p>
+
 ---
 
 ##### Languages I have worked with
